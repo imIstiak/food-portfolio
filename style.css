@@ -80,6 +80,7 @@ h1{
 .food-section-title{
     text-align: center;
     padding: 10px;
+    
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -94,6 +95,7 @@ h1{
     height: auto;
     margin-left: 6%;
     margin-right: 6%;
+    margin-bottom: 6%;
     padding: 10px;
     border-radius: 20px;
     box-shadow: 10px 10px 20px  grey;
@@ -102,6 +104,7 @@ h1{
 .stats-txt{
   display: flex;
   padding-left: 20%;
+  
    
 }
 .youtube{
@@ -115,4 +118,13 @@ h1{
 }
 .insta{
     width: 33.33%;
+}
+footer{
+    background-color: black;
+    height: 250px;
+}
+.foot-txt{
+    padding-top: 5%;
+    text-align: center;
+    color: white;
 }

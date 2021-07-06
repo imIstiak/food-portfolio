@@ -15,7 +15,7 @@ body{
 
 .half-width{
     width: 40%;
-   padding: 5%;
+   padding:5%;
 }
 #top-txt{
     padding-top: 10%;
@@ -51,4 +51,35 @@ h1{
     position: center;
     padding-left: 20%;
     padding-top: 13%;
+}
+
+.receipe-containter{
+    width: 40%;
+    height: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px  grey;
+}
+
+.food-pic{
+ margin: 5%;
+    width: 310px;
+    height: 300px;
+    border-radius: 10%;
+    
+
+}
+
+.receipe-title{
+    text-align: center;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.food-desc{
+    text-align: left;
+    margin: 5%;
 }

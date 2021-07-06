@@ -1,0 +1,39 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+
+.orange-colour{
+    color: orange;
+}
+
+.top-felx-section{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width{
+    width: 40%;
+   padding: 5%;
+}
+#top-txt{
+    padding-top: 10%;
+}
+h1{
+    font-size: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+
+.button-colour{
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+//////////////////////////////////////////////
+

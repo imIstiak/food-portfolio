@@ -88,3 +88,31 @@ h1{
     text-align: left;
     margin: 5%;
 }
+.stats-section{
+
+    width: auto;
+    height: auto;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px  grey;
+}
+
+.stats-txt{
+  display: flex;
+  padding-left: 20%;
+   
+}
+.youtube{
+    width: 33.33%;
+    
+    
+}
+.fb{
+    width:33.33%;
+    
+}
+.insta{
+    width: 33.33%;
+}

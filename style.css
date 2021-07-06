@@ -1,9 +1,26 @@
 body{
     font-family: 'Ubuntu', sans-serif;
-    margin: 1%;
+    margin: 0%;
 }
 
-
+ul{
+    list-style-type: none;
+    margin-top: auto;
+    padding: 10px;
+    overflow: hidden;
+    background-image: linear-gradient(orange,tomato);
+    
+}
+li{
+    
+    font-size: large;
+    float: right;
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
 .orange-colour{
     color: orange;
 }

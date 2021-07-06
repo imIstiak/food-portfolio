@@ -60,11 +60,16 @@ h1{
     margin-right: 2%;
     padding: 10px;
     border-radius: 20px;
-    box-shadow: 10px 10px 40px  grey;
+    box-shadow: 10px 10px 20px  grey;
+}
+
+.food-con{
+    padding-left: 5%;
+    padding-right: 5%; 
 }
 
 .food-pic{
- margin: 5%;
+ margin: auto;
     width: 310px;
     height: 300px;
     border-radius: 10%;
@@ -72,7 +77,7 @@ h1{
 
 }
 
-.receipe-title{
+.food-section-title{
     text-align: center;
     padding: 10px;
     margin-left: 10%;
